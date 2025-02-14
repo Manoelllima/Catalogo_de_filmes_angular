@@ -1,0 +1,53 @@
+
+main{
+  height: 100%;
+  width: 100%;
+}
+
+.center{
+  margin: 0 auto;
+  padding: 0 2%;
+  max-width: 1280px;
+  height: 100%;
+  width: 100%;
+}
+
+
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%;
+}
+
+.flex .catalago{
+  height: 100%;
+  width: 60%;
+}
+
+.flex .catalago{
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%;
+  padding: .5;
+  width: 60%;
+}
+
+.flex .catalago .item{
+  padding: .5rem;
+}
+
+.flex .container_destaque{
+  height: 100%;
+  padding: .5rem;
+  width: 40%;
+}
+
+.flex .container_destaque .destaque{
+  background-size: 90% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 30rem;
+  width: 100%;
+}
+
+

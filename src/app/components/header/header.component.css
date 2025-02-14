@@ -1,0 +1,13 @@
+header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem .5rem;
+}
+
+header div h2{
+  color: #FFF;
+  font-family: 'Roboto condensed' sans-serif;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}

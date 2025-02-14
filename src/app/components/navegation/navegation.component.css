@@ -1,0 +1,19 @@
+nav{
+  display: flex;
+  align-items: center;
+}
+
+nav a{
+  color: #FFF;
+  font-family: "Roboto Condensed", serif;
+  font-weight: 500;
+  font-size: .8rem;
+  padding: 0 1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+nav input{
+  max-width: 5rem;
+  padding: .2rem;
+}
